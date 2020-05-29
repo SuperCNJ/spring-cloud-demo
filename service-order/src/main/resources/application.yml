@@ -1,0 +1,8 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://eureka7777.com:7777/eureka/,http://eureka8888.com:8888/eureka/,http://eureka9999.com:9999/eureka/
+    registerWithEureka: false #Service-order服务作为Eureka Client，不向注册中心注册
+
+server:
+  port: 8002

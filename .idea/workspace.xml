@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4b35a7f-2801-4e3e-8d25-cdf07e6a9c05" name="Default Changelist" comment="spring cloud demo">
+      <change afterPath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client-5002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client-5002/src/main/java/com/charver/cloud/ConfigClient5002App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client-5002/src/main/java/com/charver/cloud/controller/ConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client-5002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client-5002/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server-5001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server-5001/src/main/java/com/charver/cloud/ConfigServer5001App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server-5001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-7777/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-7777/src/main/java/com/charver/cloud/EurekaServer7777App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-7777/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-8888/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-8888/src/main/java/com/charver/cloud/EurekaServer8888App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-8888/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-8888/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-8888/target/classes/com/charver/cloud/EurekaServer8888App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-9999/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-9999/src/main/java/com/charver/cloud/EurekaServer9999App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-9999/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-hystrix-dashboard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-hystrix-dashboard/src/main/java/com/charver/cloud/DashboardApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-hystrix-dashboard/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-8010/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-8010/src/main/java/com/charver/cloud/Member8010App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-8010/src/main/java/com/charver/cloud/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-8010/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-8011/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-8011/src/main/java/com/charver/cloud/Member8011App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-8011/src/main/java/com/charver/cloud/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-8011/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-8012/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-8012/src/main/java/com/charver/cloud/Member8012App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-8012/src/main/java/com/charver/cloud/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-8012/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-hystrix-8010/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-hystrix-8010/src/main/java/com/charver/cloud/MemberHystrix8010App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-hystrix-8010/src/main/java/com/charver/cloud/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member-hystrix-8010/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member/src/main/java/com/charver/cloud/MemberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member/src/main/java/com/charver/cloud/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-member/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-order-feign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-order-feign/src/main/java/com/charver/cloud/OrderFeignApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-order-feign/src/main/java/com/charver/cloud/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-order-feign/src/main/java/com/charver/cloud/service/OrderClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-order-feign/src/main/java/com/charver/cloud/service/OrderClientServiceFallbackFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-order-feign/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-order/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-order/src/main/java/com/charver/cloud/OrderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-order/src/main/java/com/charver/cloud/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-order/src/main/java/com/charver/cloud/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-order/src/main/java/com/charver/cloud/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-order/src/main/java/com/charver/rule/MyRoundRobinRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-order/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-zuul-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-zuul-gateway/src/main/java/com/charver/cloud/ZuulGatewayApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-zuul-gateway/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../apache/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cYyoFKrYYd6SPHMo98KbgrwGvh" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Member8012App">
+    <configuration name="ConfigClient5002App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-client-5002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.charver.cloud.ConfigClient5002App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServer5001App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server-5001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.charver.cloud.ConfigServer5001App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashboardApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-hystrix-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.charver.cloud.DashboardApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7777App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server-7777" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.charver.cloud.EurekaServer7777App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer8888App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server-8888" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.charver.cloud.EurekaServer8888App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer9999App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server-9999" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.charver.cloud.EurekaServer9999App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Member8010App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-member-8010" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.charver.cloud.Member8010App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Member8011App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-member-8011" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.charver.cloud.Member8011App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Member8012App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-member-8012" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.charver.cloud.Member8012App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-member" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.charver.cloud.MemberApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberHystrix8010App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-member-hystrix-8010" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.charver.cloud.MemberHystrix8010App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.charver.cloud.OrderApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderFeignApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-order-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.charver.cloud.OrderFeignApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGatewayApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-zuul-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.charver.cloud.ZuulGatewayApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4b35a7f-2801-4e3e-8d25-cdf07e6a9c05" name="Default Changelist" comment="" />
+      <created>1590719993757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590719993757</updated>
+      <workItem from="1590719998490" duration="483000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring cloud demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring cloud demo" />
+  </component>
+</project>

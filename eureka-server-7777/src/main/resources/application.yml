@@ -1,0 +1,10 @@
+server:
+  port: 7777
+eureka:
+  instance:
+    hostname: eureka7777.com #Eureka服务端的实例名称
+  client:
+    registerWithEureka: false #false表示不向注册中心注册自己
+    fetchRegistry: false #false表示本端就是注册中心，我的职责就是维护服务实例，并不需要去检索服务
+    serviceUrl:
+      defaultZone: http://eureka8888.com:8888/eureka/,http://eureka9999.com:9999/eureka/

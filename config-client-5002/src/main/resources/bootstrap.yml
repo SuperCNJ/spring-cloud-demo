@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      name: config-client #需要从github上读取的资源名称，没有yml后缀
+      profile: prod #本次访问的配置项
+      label: master
+      uri: http://config-5001.com:5001 #本服务启动后先去找config-server-5001服务，通过SpringCloudConfig获取github的服务地址
+

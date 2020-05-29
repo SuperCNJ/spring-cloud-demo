@@ -1,0 +1,19 @@
+eureka:
+  client: #将客户端注册进Eureka服务列表内
+    serviceUrl:
+      defaultZone: http://eureka7777.com:7777/eureka/,http://eureka8888.com:8888/eureka/,http://eureka9999.com:9999/eureka/
+  instance:
+    instance-id: service-member-8012 #自定义Eureka微服务管理页面的显示别名
+    prefer-ip-address: true #访问路径可以显示IP地址，默认为false 不显示
+server:
+  port: 8012
+spring:
+  application:
+    name: service-member
+
+info:
+  app.name: charver-springclouddemo-servicemember
+  company.name: www.chavaer.com
+  contact.name: chavaer
+  contact.phone: 188-3288-3388
+  contace.email: chavaer@super.com.cn
